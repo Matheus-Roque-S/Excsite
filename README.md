@@ -17,3 +17,7 @@ Um site simples onde você pode baixar planilhas prontas de fácil acesso para u
 ## Link
   
 - https://matheus-roque-s.github.io/Excsite/
+
+## Créditos
+
+- Desenvolvido por Matheus Roque
