@@ -1,6 +1,6 @@
 # Site de planilhas
 
-Um site simples onde você pode baixar planilhas prontas de fácil acesso para utilizar no seu dia a dia,
+Um site simples onde você pode baixar planilhas prontas de fácil acesso para utilizar no seu dia a dia.
 
 ## Funcionalidades
 
